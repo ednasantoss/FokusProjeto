@@ -355,11 +355,11 @@ h1, h2, h3, h4, h5, h6 {
     gap: 0.8rem;
 }
 
-.app__form-footer__button {
+.app__form-footer__button--confirm {
     border-radius: 3.2rem;
     padding: 0.8rem 2.4rem;
     color: #fff;
-    background: var(--azul-royal);
+    background: var(--azul-profundo);
 }
 
 .app__button--add-task {
